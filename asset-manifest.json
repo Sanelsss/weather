@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/vrijeme2/static/css/main.a286dfc7.chunk.css",
+    "main.js": "/github.io/vrijeme2/static/js/main.04e260b2.chunk.js",
+    "main.js.map": "/github.io/vrijeme2/static/js/main.04e260b2.chunk.js.map",
+    "runtime-main.js": "/github.io/vrijeme2/static/js/runtime-main.ae7d7d5b.js",
+    "runtime-main.js.map": "/github.io/vrijeme2/static/js/runtime-main.ae7d7d5b.js.map",
+    "static/css/2.92df16d5.chunk.css": "/github.io/vrijeme2/static/css/2.92df16d5.chunk.css",
+    "static/js/2.cfcd225b.chunk.js": "/github.io/vrijeme2/static/js/2.cfcd225b.chunk.js",
+    "static/js/2.cfcd225b.chunk.js.map": "/github.io/vrijeme2/static/js/2.cfcd225b.chunk.js.map",
+    "index.html": "/github.io/vrijeme2/index.html",
+    "static/css/2.92df16d5.chunk.css.map": "/github.io/vrijeme2/static/css/2.92df16d5.chunk.css.map",
+    "static/css/main.a286dfc7.chunk.css.map": "/github.io/vrijeme2/static/css/main.a286dfc7.chunk.css.map",
+    "static/js/2.cfcd225b.chunk.js.LICENSE.txt": "/github.io/vrijeme2/static/js/2.cfcd225b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/github.io/vrijeme2/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/App.css": "/github.io/vrijeme2/static/media/ss.7b79b0df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7d7d5b.js",
+    "static/css/2.92df16d5.chunk.css",
+    "static/js/2.cfcd225b.chunk.js",
+    "static/css/main.a286dfc7.chunk.css",
+    "static/js/main.04e260b2.chunk.js"
+  ]
+}
